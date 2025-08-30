@@ -11,7 +11,7 @@ setup(
     version="1.0.0",
     author="Vats Pratap Singh",
     author_email="vatspratapsingh@gmail.com",
-    description="Machine Learning project for Parkinson's Disease detection using voice analysis",
+    description="AI-Powered Parkinson's Disease Detection using voice analysis and acoustic biomarkers",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/vatspratapsingh/NeuroDetect",
