@@ -79,7 +79,3 @@ jupyter notebook parkinsons_Disease_detection_Using_GOOGLE_Dataset.ipynb
 **Vats Pratap Singh**
 - GitHub: [@vatspratapsingh](https://github.com/vatspratapsingh)
 - Project Link: [https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System](https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System)
-
-## License
-
-This project is licensed under the MIT License.
