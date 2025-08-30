@@ -1,7 +1,7 @@
 # Project Structure
 
 ```
-Parkinson-s-Disease-Detection-using-Predictive-System/
+NeuroDetect/
 ├── README.md                    # Main project documentation
 ├── requirements.txt             # Python dependencies
 ├── LICENSE                      # MIT License

@@ -1,4 +1,4 @@
-# Parkinson's Disease Detection using Machine Learning
+# NeuroDetect: Parkinson's Disease Detection using Machine Learning
 
 A machine learning project for early detection of Parkinson's Disease using voice/speech analysis.
 
@@ -29,13 +29,13 @@ This project implements multiple ML algorithms to predict Parkinson's disease ba
 
 1. Clone the repository
 ```bash
-git clone https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System.git
-cd Parkinson-s-Disease-Detection-using-Predictive-System
+git clone https://github.com/vatspratapsingh/NeuroDetect.git
+cd NeuroDetect
 ```
 
 2. Install required packages
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+pip install -r requirements.txt
 ```
 
 3. Launch Jupyter Notebook
@@ -49,12 +49,12 @@ jupyter notebook
 
 1. Kaggle Dataset Analysis:
 ```bash
-jupyter notebook parkinsons_Disease_detection_Using_Kaggle_Dataset.ipynb
+jupyter notebook notebooks/parkinsons_Disease_detection_Using_Kaggle_Dataset.ipynb
 ```
 
 2. Google Dataset Analysis:
 ```bash
-jupyter notebook parkinsons_Disease_detection_Using_GOOGLE_Dataset.ipynb
+jupyter notebook notebooks/parkinsons_Disease_detection_Using_GOOGLE_Dataset.ipynb
 ```
 
 ## Results
@@ -78,7 +78,7 @@ jupyter notebook parkinsons_Disease_detection_Using_GOOGLE_Dataset.ipynb
 
 **Vats Pratap Singh**
 - GitHub: [@vatspratapsingh](https://github.com/vatspratapsingh)
-- Project Link: [https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System](https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System)
+- Project Link: [https://github.com/vatspratapsingh/NeuroDetect](https://github.com/vatspratapsingh/NeuroDetect)
 
 ## License
 

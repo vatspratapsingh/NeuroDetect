@@ -8,8 +8,8 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System.git
-cd Parkinson-s-Disease-Detection-using-Predictive-System
+git clone https://github.com/vatspratapsingh/NeuroDetect.git
+cd NeuroDetect
 ```
 
 ### 2. Install dependencies

@@ -7,14 +7,14 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = [line.strip() for line in fh if line.strip() and not line.startswith("#")]
 
 setup(
-    name="parkinsons-disease-detection",
+    name="neurodetect",
     version="1.0.0",
     author="Vats Pratap Singh",
     author_email="vatspratapsingh@gmail.com",
     description="Machine Learning project for Parkinson's Disease detection using voice analysis",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System",
+    url="https://github.com/vatspratapsingh/NeuroDetect",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -31,10 +31,10 @@ setup(
     ],
     python_requires=">=3.8",
     install_requires=requirements,
-    keywords="machine-learning, healthcare, parkinsons-disease, voice-analysis, medical-diagnosis",
+    keywords="machine-learning, healthcare, parkinsons-disease, voice-analysis, medical-diagnosis, neurodetect",
     project_urls={
-        "Bug Reports": "https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System/issues",
-        "Source": "https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System",
-        "Documentation": "https://github.com/vatspratapsingh/Parkinson-s-Disease-Detection-using-Predictive-System#readme",
+        "Bug Reports": "https://github.com/vatspratapsingh/NeuroDetect/issues",
+        "Source": "https://github.com/vatspratapsingh/NeuroDetect",
+        "Documentation": "https://github.com/vatspratapsingh/NeuroDetect#readme",
     },
 )
